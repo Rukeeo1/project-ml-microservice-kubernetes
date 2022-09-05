@@ -1,1 +1,3 @@
 <paste log output from Docker prediction, here>
+[2022-09-05 15:53:18,154] INFO in app: prediction values: 
+[20.35373177134412]

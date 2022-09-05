@@ -70,3 +70,7 @@ node_modules
 dist
 
 *.pem
+
+hadolint
+housing.csv
+minikube-linux-amd64
